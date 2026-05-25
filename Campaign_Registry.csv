@@ -1,0 +1,52 @@
+Campaign_ID,Brand,Channel,Objective,Start_Date,End_Date,Budget_USD
+A_DIS_01,A,Display,Awareness,2025-10-01,2026-03-31,"$120,000"
+A_DIS_02,A,Display,Retargeting,2025-10-01,2026-03-31,"$80,000"
+A_VID_01,A,Video,Awareness,2025-10-01,2026-03-31,"$90,000"
+A_VID_02,A,Video,Consideration,2025-11-01,2026-02-28,"$60,000"
+A_OTT_01,A,OTT,Awareness,2025-10-01,2026-03-31,"$70,000"
+A_SRC_01,A,Search,Branded,2025-10-01,2026-03-31,"$50,000"
+A_SRC_02,A,Search,Non-Branded,2025-10-01,2026-03-31,"$45,000"
+A_PSO_01,A,Paid Social,Awareness,2025-10-01,2026-03-31,"$85,000"
+A_PSO_02,A,Paid Social,Conversion,2025-10-15,2026-03-31,"$65,000"
+B_DIS_01,B,Display,Awareness,2025-10-01,2026-03-31,"$95,000"
+B_DIS_02,B,Display,Retargeting,2025-10-01,2026-03-31,"$55,000"
+B_VID_01,B,Video,Awareness,2025-10-01,2026-03-31,"$75,000"
+B_VID_02,B,Video,Consideration,2025-10-01,2026-01-31,"$45,000"
+B_OTT_01,B,OTT,Awareness,2025-10-01,2026-03-31,"$55,000"
+B_SRC_01,B,Search,Branded,2025-10-01,2026-03-31,"$42,000"
+B_SRC_02,B,Search,Non-Branded,2025-10-01,2026-03-31,"$38,000"
+B_PSO_01,B,Paid Social,Awareness,2025-10-01,2026-03-31,"$70,000"
+B_PSO_02,B,Paid Social,Conversion,2025-11-01,2026-03-31,"$50,000"
+C_DIS_01,C,Display,Awareness,2025-10-01,2026-03-31,"$140,000"
+C_DIS_02,C,Display,Retargeting,2025-10-01,2026-03-31,"$90,000"
+C_VID_01,C,Video,Awareness,2025-10-01,2026-03-31,"$105,000"
+C_VID_02,C,Video,Consideration,2025-10-01,2026-03-31,"$70,000"
+C_OTT_01,C,OTT,Awareness,2025-10-01,2026-03-31,"$85,000"
+C_OTT_02,C,OTT,Consideration,2025-12-01,2026-03-31,"$65,000"
+C_SRC_01,C,Search,Branded,2025-10-01,2026-03-31,"$58,000"
+C_SRC_02,C,Search,Non-Branded,2025-10-01,2026-03-31,"$52,000"
+C_PSO_01,C,Paid Social,Awareness,2025-10-01,2026-03-31,"$95,000"
+C_PSO_02,C,Paid Social,Conversion,2025-10-01,2026-03-31,"$75,000"
+D_DIS_01,D,Display,Awareness,2025-10-01,2026-03-31,"$75,000"
+D_DIS_02,D,Display,Retargeting,2025-10-01,2026-03-31,"$45,000"
+D_VID_01,D,Video,Awareness,2025-10-01,2026-03-31,"$60,000"
+D_OTT_01,D,OTT,Awareness,2025-10-01,2026-03-31,"$45,000"
+D_SRC_01,D,Search,Branded,2025-10-01,2026-03-31,"$32,000"
+D_SRC_02,D,Search,Non-Branded,2025-10-01,2026-03-31,"$28,000"
+D_PSO_01,D,Paid Social,Awareness,2025-10-01,2026-03-31,"$58,000"
+D_PSO_02,D,Paid Social,Conversion,2025-11-15,2026-03-31,"$42,000"
+,,,,,,
+--- Pause Schedule ---,,,,,,
+Campaign_ID,Pause_Start,Pause_End,Duration_Days,,,
+A_DIS_01,2025-11-20,2025-11-30,11,,,
+A_DIS_01,2026-01-15,2026-01-22,8,,,
+B_VID_02,2025-12-01,2025-12-14,14,,,
+C_OTT_01,2025-12-20,2026-01-05,17,,,
+D_PSO_01,2025-12-24,2026-01-02,10,,,
+A_PSO_02,2026-02-15,2026-02-20,6,,,
+B_SRC_02,2025-11-01,2025-11-10,10,,,
+C_DIS_02,2026-02-01,2026-02-10,10,,,
+D_DIS_02,2025-12-10,2025-12-20,11,,,
+B_OTT_01,2026-01-20,2026-02-03,15,,,
+C_VID_02,2026-01-05,2026-01-18,14,,,
+A_SRC_01,2025-12-26,2026-01-03,9,,,
